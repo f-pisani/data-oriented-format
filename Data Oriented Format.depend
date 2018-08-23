@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1432785297 source:p:\c++\[framework] got no brains\data oriented format\main.cpp
+	<iostream>
+	"Object.hpp"
+	"Value.hpp"
+	"Lexer.hpp"
+
+1431499073 source:p:\c++\[framework] got no brains\data oriented format\value.cpp
+	"Value.hpp"
+
+1431507205 p:\c++\[framework] got no brains\data oriented format\value.hpp
+	<iostream>
+	<sstream>
+
+1431755558 p:\c++\[framework] got no brains\data oriented format\object.hpp
+	<iostream>
+	<functional>
+	<stack>
+	<unordered_map>
+	"Value.hpp"
+
+1431668522 source:p:\c++\[framework] got no brains\data oriented format\object.cpp
+	"Object.hpp"
+
+1431993722 source:p:\c++\[framework] got no brains\data oriented format\lexer.cpp
+	"Lexer.hpp"
+
+1431756463 p:\c++\[framework] got no brains\data oriented format\lexer.hpp
+	<iostream>
+
+1431756213 source:p:\c++\[framework] got no brains\data oriented format\reader.cpp
+	"Reader.hpp"
+
+1431755403 p:\c++\[framework] got no brains\data oriented format\reader.hpp
+
+1431756224 source:p:\c++\[framework] got no brains\data oriented format\writer.cpp
+	"Writer.hpp"
+
+1431755403 p:\c++\[framework] got no brains\data oriented format\writer.hpp
+
