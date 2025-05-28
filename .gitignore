@@ -1,0 +1,50 @@
+# Build directories
+build/
+debug/
+release/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Code::Blocks specific
+*.depend
+*.layout
+*.cbp
+*_build_log.html
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Profiling
+gmon.out
+*.gcda
+*.gcno
+*.gcov
